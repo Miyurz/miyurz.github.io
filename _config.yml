@@ -21,16 +21,16 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
-keywords: 'jekyll,theme,gem-based,blog'
+url: http://vforsee.com
+baseurl: http://miyurz.com
+title: Open source software engineer, hacker, geek ....
+description: "Kubernaut || Ansibler || (Python || Go || Bash) Programmer, Gitter"
+keywords: 'kubernetes, python, ansible, helm, kubespray, go'
 author:
-  name:
-  job_title:
-  location:
-  email:
+  name: Mayur Nagekar
+  job_title: DevOps Enthusiast - SRE, OPs , Cloud Engineer
+  location: Bengauluru, India
+  email: mayur.nagekar@gmail.com
   social_links:
     - name: facebook
       url:
@@ -47,7 +47,7 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Simple Texutre</h1>
+  section1: <h1>Mayur Nagekar</h1>
   section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
 blog:
